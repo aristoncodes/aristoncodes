@@ -80,12 +80,12 @@ class Aditya:
 ## `> stats --user aristoncodes`
  
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joyboy24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joyboy24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9&text_color=c9d1d9)
-![GitHub Streak](https://streak-stats.demolab.com/?user=joyboy24&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9)
+ 
+![GitHub Streak](https://streak-stats.demolab.com/?user=aristoncodes&theme=tokyonight&hide_border=true&background=0d1117&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9)
  
 </div>
 ---
+
  
 ## `> tech --stack`
  
